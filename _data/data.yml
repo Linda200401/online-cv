@@ -16,14 +16,13 @@ sidebar:
     # 以下内容如果自己没有可以在该行的最前面添加"#"，将其注释掉
     email: yanglin2004@cuc.edu.cn
     phone: 18803409242
-    WeChat: etett2004
     # website: pyxblog.cn  # 个人主页链接，前面不要添加http://
     github: Linda200401  # GitHub用户名
 #    stack-overflow: # Number/Username, e.g. 123456/alandoe
 #    pdf:   # 如果有pdf版的简历，可以在这里放简历的下载链接，或者直接放 {https://你的简历页面}/print
 
     interests:
-      title: 
+      title: interests
       info:
         - item: 优秀学生干部
           link:
